@@ -1,0 +1,20 @@
+name: John
+age: 18
+average: 20
+^
+name: Anush
+age: 44
+average: 31
+^
+name: Levon
+age: 12
+average: 22
+^
+name: Maneh
+age: 0
+average: 0
+^
+name: Garnik
+age: 47
+average: 21
+^
